@@ -1,8 +1,6 @@
 # 💫 About Me:
 nothing.
 
-<p align="center">vivi. / elysiaana</p>
-
 ###
 
 <div align="center">
