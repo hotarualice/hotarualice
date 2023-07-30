@@ -1,10 +1,8 @@
 # 💫 About Me:
-nothing.
-
 ###
 
 <div align="center">
-  <img height="500" src="https://cdn.discordapp.com/attachments/1129357160422326318/1135156121456345228/wp12347361-mem-cho-wallpapers.jpg"  />
+  <img height="400" src="https://cdn.discordapp.com/attachments/1129357160422326318/1135156121456345228/wp12347361-mem-cho-wallpapers.jpg"  />
 </div>
 
 ###
