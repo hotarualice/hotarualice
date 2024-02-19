@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://cdn.discordapp.com/attachments/1209165767367462934/1209173841423896606/close-up-fresh-freshness-garden-7ccccc72fd9ca313ed27c332fc51855c.jpg?ex=65e5f5e5&is=65d380e5&hm=c0a36404baa4dbfec6160a439f72d795c4c29c20503eb1102d9e96decb8f4134&"  />
+  <img height="300" src="-"  />
 </div>
 
 ###
